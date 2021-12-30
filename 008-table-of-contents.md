@@ -22,6 +22,17 @@
   * Same Day Distribution
   * Play Anywhere on Any Device
   * Resources
-* [Chapter 5 - Summary](060-chapter-05.md)
+* [Chapter 5 - PlayStation Now](060-chapter-05.md)
+  * Resources
+* [Chapter 6 - Amazon Luna](070-chapter-06.md)
+  * Resources
+* [Chapter 7 - Xbox Cloud](080-chapter-07.md)
+  * Resources
+* [Chapter 8 - Steam Remote Play](090-chapter-08.md)
+  * Resources
+* [Chapter 9 - Google Stadia](100-chapter-09.md)
+  * Resources
+* [Chapter 10 - Summary](110-chapter-10.md)
+  * Resources
 
 [Next >>](010-chapter-00.md)
