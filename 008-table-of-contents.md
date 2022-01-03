@@ -23,16 +23,36 @@
   * Play Anywhere on Any Device
   * Resources
 * [Chapter 5 - PlayStation Now](060-chapter-05.md)
+  * Hardware
+  * Experience
+  * Pricing
   * Resources
 * [Chapter 6 - Amazon Luna](070-chapter-06.md)
+  * Hardware
+  * Experience
+  * Pricing
   * Resources
 * [Chapter 7 - Xbox Cloud](080-chapter-07.md)
+  * Hardware
+  * Experience
+  * Pricing
   * Resources
 * [Chapter 8 - Steam Remote Play](090-chapter-08.md)
+  * Hardware
+  * Experience
+  * Pricing
   * Resources
 * [Chapter 9 - Google Stadia](100-chapter-09.md)
+  * Hardware
+  * Experience
+  * Pricing
   * Resources
-* [Chapter 10 - Summary](110-chapter-10.md)
+* [Chapter 10 - NVIDIA GeForce Now](110-chapter-10,md)
+  * Hardware
+  * Experience
+  * Pricing
+  * Resources
+* [Chapter 11 - Summary](120-chapter-11.md)
   * Resources
 
 [Next >>](010-chapter-00.md)
