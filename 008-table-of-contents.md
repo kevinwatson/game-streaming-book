@@ -32,7 +32,7 @@
   * Experience
   * Pricing
   * Resources
-* [Chapter 7 - Xbox Cloud](080-chapter-07.md)
+* [Chapter 7 - Xbox Cloud Gaming](080-chapter-07.md)
   * Hardware
   * Experience
   * Pricing
